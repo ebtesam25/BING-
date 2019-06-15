@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+.body70{
+	margin:0 auto;
+	padding: 40px;
+	width:70%;
+	background-color: #FC8867;
+	z-index: 1;
+	
+}
+body{
+	margin: 0px;
+	background-color: #FC8867;
+}
+.logox{
+	text-align: center;
+	width:100%;
+	height:40px;
+	background: #79C9F5;
+	position: absolute;
+	top:20px;
+}
+#binglogo{
+	position: absolute;
+	top:-10px;
+	left:600px;
+}
+.lform{
+	border-radius: 30px;
+	position: absolute;
+	margin-top:90px;
+	left:170px;
+	z-index: 1;
+	box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.8);
+	background: #fd6b43;
+}
+#popbot{
+	object-fit: cover;
+	width:370px;
+	height:350px;
+	object-position: 40% 50%;
+	z-index: 2;
+}
+.imgleft{
+	position: relative;
+	width:450px;
+	float:left;
+	z-index: 2;
+	padding: 30px;
+}
+.fright{
+	position: relative;
+	float: right;
+	width:470px;
+	background:#F19767;
+	z-index: 2;
+	margin: 10px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding: 20px;
+}
+h1{
+	display: inline-block;
+	text-align: center;
+	font-family: "Questrial",sans-serif;
+	margin:20px;
+	color: white;
+	z-index: 2;
+	margin-bottom: 40px;
+	margin-left: 160px;
+}
+.form-control{
+	width:70%;
+	position: relative;
+	margin: auto;
+	font-family: "Questrial",sans-serif;
+	
+}
+.btn{
+	background:#4E9EF3;
+	border: none;
+	width:50%;
+	height:50px;
+	margin-left: 110px;
+	margin-top: 30px;
+	font-family: "Questrial",sans-serif;
+}
+.signupred{
+	font-family: "Questrial",sans-serif;
+	margin-top: 30px;
+	margin-left: 140px;
+	padding-bottom: 30px;
+}
+
+
+
